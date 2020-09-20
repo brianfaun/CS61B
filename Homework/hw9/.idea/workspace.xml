@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="933f78c5-a6e1-4d53-b66b-1de1e0c49c41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../proj3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/DumpObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/Dumpable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/GitletException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/UnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/gitlet/gitlet-design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/samples/test01-init.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/samples/test02-basic-checkout.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/samples/test03-basic-log.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/samples/test04-prev-checkout.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/src/notwug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/src/wug.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/testing/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw8/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw8/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/loa/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2/loa/Board.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1apD1rinjudUSgZ09htf3LJeoiW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.NFATests.testHard">
+    <configuration name="NFATests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NFATests" />
+      <module name="hw9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NFATests.testHard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NFATests" />
+      <option name="METHOD_NAME" value="testHard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NFATests.testMedium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NFATests" />
+      <option name="METHOD_NAME" value="testMedium" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NFATests.testSimple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NFATests" />
+      <option name="METHOD_NAME" value="testSimple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NFATests.testHard" />
+        <item itemvalue="JUnit.NFATests.testMedium" />
+        <item itemvalue="JUnit.NFATests.testSimple" />
+        <item itemvalue="Application.NFATests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="933f78c5-a6e1-4d53-b66b-1de1e0c49c41" name="Default Changelist" comment="" />
+      <created>1587423430153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587423430153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="791" height="316" key="GridCell.Tab.0.bottom" timestamp="1587521335852">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="316" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587521335852" />
+    <state width="791" height="316" key="GridCell.Tab.0.center" timestamp="1587521335851">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="316" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587521335851" />
+    <state width="791" height="316" key="GridCell.Tab.0.left" timestamp="1587521335851">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="316" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587521335851" />
+    <state width="791" height="316" key="GridCell.Tab.0.right" timestamp="1587521335852">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="791" height="316" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587521335852" />
+    <state width="1635" height="345" key="GridCell.Tab.1.bottom" timestamp="1587520865538">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865538" />
+    <state width="1635" height="345" key="GridCell.Tab.1.center" timestamp="1587520865537">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865537" />
+    <state width="1635" height="345" key="GridCell.Tab.1.left" timestamp="1587520865537">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865537" />
+    <state width="1635" height="345" key="GridCell.Tab.1.right" timestamp="1587520865538">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865538" />
+    <state width="1635" height="345" key="GridCell.Tab.2.bottom" timestamp="1587520865539">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865539" />
+    <state width="1635" height="345" key="GridCell.Tab.2.center" timestamp="1587520865538">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865538" />
+    <state width="1635" height="345" key="GridCell.Tab.2.left" timestamp="1587520865538">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865538" />
+    <state width="1635" height="345" key="GridCell.Tab.2.right" timestamp="1587520865539">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1635" height="345" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587520865539" />
+    <state x="416" y="237" key="NewModule_or_Project.wizard" timestamp="1587492630915">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="416" y="237" key="NewModule_or_Project.wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1587492630915" />
+    <state x="328" y="118" key="SettingsEditor" timestamp="1587423484663">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="328" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1587423484663" />
+    <state x="181" y="159" key="new project wizard" timestamp="1587492609831">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="181" y="159" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1587492609831" />
+  </component>
+</project>

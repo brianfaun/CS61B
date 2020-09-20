@@ -1,0 +1,17 @@
+Commands: Commands are whitespace-delimited.  Other trailing text on a line
+          is ignored. Comment lines begin with # and are ignored.
+
+  uv-xy     A move from square uv to square xy.  Here u and v are column
+            designations (a-h) and v and y are row designations (1-8): 
+  new       Stop game and return to initial position.
+  seed N    Seed the random number with integer N.
+  auto P    P is white or black; makes P into an AI.
+  manual P  P is white or black; takes moves for P from terminal.
+  set cr P N
+            Put P ('white', 'black', or '-') into square cr, and set the
+            next player to move to N ('white' or 'black').  Used to
+            set up a position, not for play.
+  dump      Display the board in standard format.
+  quit      End program.
+  help
+  ?         This text.

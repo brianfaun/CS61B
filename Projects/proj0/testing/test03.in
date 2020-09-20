@@ -1,0 +1,11 @@
+# Test "solve" button.
+PUZZLE
+4 4
+1 8 13 5 
+11 12 7 6 
+3 4 2 15 
+10 9 14 16 
+1 16 
+ENDPUZZLE
+SOLVE
+QUIT

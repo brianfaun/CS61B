@@ -1,0 +1,5 @@
+# Have the program play against itself.  Make sure somebody wins.
+#* java -ea loa.Main 
+seed 12347
+auto Black
+#*move/win

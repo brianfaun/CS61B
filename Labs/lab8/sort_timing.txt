@@ -1,0 +1,28 @@
+Q: Is one sorting algorithm always faster than another?
+A: Yes. CountingSorter is always the fastest sorter.  Similarly, BubbleSorter is consistently the slowest sorter.
+
+Q: Above we said that BubbleSort, WipingBubbleSort, and InsertionSort each had the same Theta(N^2) asymptotic time complexity. How can you explain the differences in the plots for these three algorithms?
+A:  They have the same asymptotic time, and the graphs provided can be deceiving.  However, you can see that these
+follow a parabolic curve.  You can think of their actual times as ax^2, bx^2, cx^2 for Bubble, Wiper, Insertion.
+Where a>b>c: The behavior of the sorters is identical as inputs get larger, but that is not to say the graphs will be identical.
+
+Q: What information can we gain from empirical analysis of algorithms which might not be as noticeable in asymptotical bounds?
+A: Expanding on the previous question, only looking at the asymptotic bounds of Bubble, Wiper, and Insertion is misleading:
+One would think that they would all be the same, but that is obviously not the case.  An empirical view demonstrates the
+differences between sort times, even within the same theta bounds.
+
+Q: For any given sorting algorithm, does increasing the array size always mean the sorting takes longer?
+A: No.  The graphs have spikes, associated with needing to increase the array size for a specific size input.  For the
+array sizes which immediately follow this spike, the time actually decreases for a finite amount of increases in the
+array size.
+
+Q: How does changing nrepeats change the plot?
+A: Increasing nrepeats removes the spikes in the graphs.  Essentially it just makes a clearer representation of
+these sorting times because it runs the same array n times.  Increasing n will increase precision.
+
+Q: Is your plot the exact same as your partner's plot, even with the same values of ntrials, by, and nrepeats?
+A: No, the graphs are slightly different, because the arrays being used are randomly generated and
+thus the results will not be identical.
+
+Q: Optional: Look at the source code for BubbleSorter to WipingBubbleSorter. After looking at the plots, can you intuitively explain why WipingBubbleSorter is usually 2x as fast as BubbleSorter? (Hint: Consider the immobility of some elements when the swapping passes are single directional (i.e. only going forward), and how this "Wiping" strategy helps deal with that issue.) Can you come up with an example that shows the difference in runtime?
+A:

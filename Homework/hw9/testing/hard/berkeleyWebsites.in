@@ -1,0 +1,3 @@
+((www.)|(http://)|(https://))(\l+.)+(berkeley.edu)(/(\l|\d)+)*
+* https://ls.berkeley.edu http://guide.berkeley.edu/undergraduate https://inst.eecs.berkeley.edu/cs61b/fa19/materials/hw/hw8
+** www.stanfurd.edu https://inst.eecs.berkeley.edu.fakepath http:// www. https:// http://berkeley.edu http://berkeley.edu//

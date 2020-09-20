@@ -1,0 +1,3 @@
+((\l|\d)+,)*(\l|\d)+
+* dog,cat milk,eggs,butter cs61a,cs61b,cs70 thanos,mudit joe,itai,omar single comma,separated,values 1,2,3
+** dog,cat, ,milk,eggs , ,, ,,, this,that,,those this,,is,unacceptable curse,,you,,perry,,the,platypus

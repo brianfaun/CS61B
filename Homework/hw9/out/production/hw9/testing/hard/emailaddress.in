@@ -1,0 +1,3 @@
+\l(\l|\d)*@((gmail)|(hotmail)|(yahoo)).com
+* a@hotmail.com a1@hotmail.com omarkhan902@gmail.com cs61b@gmail.com
+** 1@gmail.com 100a@hotmail.com @gmail.com hotmail.com .com gmail hotmail yahoo bunchofrandomgarbagethisisjusttolookatyourtimingbecauseeventhoughthisisnotgoingtomatchitshouldnttakethatlongtotellthatitcannotmatch

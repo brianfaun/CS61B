@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8421c41d-99a7-4521-a68d-353d3370b487" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ColumnMatchFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColumnMatchFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreaterThanFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/GreaterThanFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SubstringFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/SubstringFilter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y8aw8GcTd0AYDnEXJpj64woTOB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTable" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8421c41d-99a7-4521-a68d-353d3370b487" name="Default Changelist" comment="" />
+      <created>1582326910045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582326910045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="118" key="SettingsEditor" timestamp="1582328514342">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1582328514342" />
+    <state x="90" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1582329059948">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="90" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1582329059948" />
+  </component>
+</project>

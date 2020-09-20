@@ -1,0 +1,29 @@
+Q: Is one GrowList implementation always better than the others?
+A: Yes. The JavaGrow list method is consistently the most efficient at adding elements to a list. Conversely, ArithGrow is
+consistently the least efficient in adding new elements.
+
+Q: Why is the runtime for N insertions into a geometrically resizing list a Theta(N) operation?
+A: Each time the array becomes full, the size is double, and insertion continues until the array is full again.
+Because of this, insertion time is going to be roughly equal to the number of elements being inserted.
+
+Q: Why is the runtime for N insertions into a arithmetically resizing list a Theta(N^2) operation?
+A: Each time the array becomes full, the array is increased by 1, the ENTIRE array is copied, and the process repeats.  Clearly,
+inserting N elements will is a Theta(n^2) operation because for each element added, the copy must go through each element
+already in the list to copy successfully.
+
+Q: How does the runtime per operation for the ArithGrowList compare to that of GeomGrowList and JavaGrowList? Specifically look at the non-accumulated plots and describe the trends for how long each operation takes as a function of how many elements have already been inserted in the list.
+A: The runtime for ArithGrowList is the largest, while GeomGrowList and JavaGrowList are significantly quicker.
+ArithGrowList increases as the number of elements increases (with spikes), while the other two remain extremely small,
+ with only a few large jumps.
+
+Q: When are there spikes in the per operation runtime graphs for each of the implementations? Do these make sense to you? Hint: some of these should and others might not. Empirical runtime can be quite messy and depends on machine specifics which will be revealed in other subsequent classes like CS61C.
+A: The spikes occur when the array needs to be re-sized to fit new elements. For ArithGrow this occurs for every single addition.
+ For the other two, this also occurs when the array needs to be re-sized, but the re-sizing is done in a way that it does not
+ need to be done again until 2N elements have been added.  This is best seen in the 1024 100 -noaccum graph, where javaGrow spikes
+ at intervals of 2N quite consistently.
+
+Q: Optional: Try changing the code for GeomGrowList to resize by a different factor. How does this effect the theoretical asymptotic runtime? How does this effect the plotted runtime?
+A:
+
+Q: Optional: Try changing the code for ArithGrowList to resize by adding a different fixed number of spots in the array. How does this effect the theoretical asymptotic runtime? How does this effect the plotted runtime?
+A:
